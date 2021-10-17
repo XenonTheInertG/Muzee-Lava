@@ -1,5 +1,5 @@
 # Lavalink on Replit
-[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
+[![Run on Repl.it](https://repl.it/badge/github/XenonTheInertG/Muzee-Lava)](https://repl.it/github/XenonTheInertG/Muzee-lava)
 
 
 
@@ -7,7 +7,7 @@
 
 Fork this github repository. then create a new replit project.
 
-or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to install it automatically.
+or [click me](https://replit.com/github/XenonTheInertG/Muzee-Lava) to install it automatically.
 
 # How to use
 * Run the replit
