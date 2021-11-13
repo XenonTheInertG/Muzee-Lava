@@ -1,10 +1,5 @@
-## install jabba and sht
-echo Downloading Java 16...
 curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash -s -- --skip-rc && . ~/.jabba/jabba.sh
-## get java 16
-jabba install zulu@1.16.0
-echo Java is installed.
-java -version
+## use java 13 :3
+jabba install openjdk@1.13.0-2
 npm i
-echo Donwloading lavalink jar...
-node index.js
+node index
