@@ -1,12 +1,11 @@
-
 {
-  "name": "haha-replit-lavalink-go-brr",
+  "name": "Muzee-lava",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "DarrenOfficial",
+  "author": "XenonTheInertG",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^10.0.0",
+    "dotenv": "^8.2.0",
     "got": "^11.8.1"
   },
   "scripts": {
