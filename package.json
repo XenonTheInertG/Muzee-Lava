@@ -6,7 +6,7 @@
   "author": "DarrenOfficial",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
-    "dotenv": "^13.0.0",
+    "dotenv": "^15.0.0",
     "got": "^11.8.1"
   },
   "scripts": {
