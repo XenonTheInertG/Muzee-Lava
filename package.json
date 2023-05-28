@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "got": "^11.8.1"
+    "got": "^13.0.0"
   },
   "scripts": {
    "start": "bash start.sh"
